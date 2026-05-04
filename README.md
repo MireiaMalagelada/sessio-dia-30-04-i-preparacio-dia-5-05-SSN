@@ -1,0 +1,1 @@
+# sessio-dia-30-04-i-preparacio-dia-5-05-SSN
