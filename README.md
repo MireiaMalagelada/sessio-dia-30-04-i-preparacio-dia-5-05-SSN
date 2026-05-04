@@ -1,1 +1,4 @@
 # sessio-dia-30-04-i-preparacio-dia-5-05-SSN
+En aquest repositori hi ha el seguent:
+- Carpeta simulacio: conte els fitxers del input, fitxers generats en la minimitzacio de la energia i els fitxers generats en fer el calcul per portar el sistema a un equilibri a la temperatura i presio que volem. (Aconseguit seguint el guio de la sessio 30/04/2026 SIMULATION OF WATER PERMEATION IN A CNT MEMBRANE)
+- Carpeta preparacio dia 05/05/2026: conte els fitxers .py usats per calcular (el nombre d'aigues en el CNT, el nombre de "permeations" i el flux d'aigua), els fitxers .psf i .dcd que han de llegir els .py i sobre els que s'han de fer aquests calculs i els resultats d'aquests (fitxers .dat i captures de pantalla de les grafiques).
